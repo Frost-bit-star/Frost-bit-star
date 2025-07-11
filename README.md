@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&width=435&lines=Hi+there%2C+I'm+Morgan+Miller+%F0%9F%91%8B;Cyber+Security+Expert+%26+Fullstack+Developer;Ethical+Hacker+%7C+AI+Builder+%7C+Entrepreneur" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:222222&height=150&section=header&text=Morgan%20Miller&fontSize=50&fontColor=00FF00&animation=fadeIn" alt="header" />
+</p>
+
 ### Hi there, I'm Morgan Miller! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![TikTok](https://img.shields.io/badge/TikTok-222222?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@trover_star?_t=ZM-8wjWlOE09Qe&_r=1)](https://www.tiktok.com/@trover_star?_t=ZM-8wjWlOE09Qe&_r=1)
@@ -20,6 +28,13 @@ I am **Morgan Miller** — a Cyber Security Expert, Entrepreneur, and Fullstack 
 - **TroverStar Marketplace**  
   A free online store platform empowering sellers — now with 2000+ daily users.  
   [trover.42web.io](https://trover.42web.io)
+
+- **StackVerify API**  
+  OTP, Email Verification, Campaigns, and WhatsApp automation tools to improve marketing accuracy and trust.  
+  [stackverify.vercel.app](https://stackverify.vercel.app)
+
+- **Ghost**  
+  Advanced terminal hacking tool for real-world cyber security testing and red team operations.
 
 - **StackMorgan AI**  
   Intelligent assistant and productivity tools tailored for developers and entrepreneurs.
@@ -47,8 +62,8 @@ I am **Morgan Miller** — a Cyber Security Expert, Entrepreneur, and Fullstack 
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
 ![PHP](https://img.shields.io/badge/-PHP-370617?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-Java-E6194B?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-E6194B?style=flat-square&logo=java)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
