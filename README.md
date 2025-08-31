@@ -22,40 +22,28 @@
 I am **Morgan Miller** — a Cyber Security Expert, Entrepreneur, and Fullstack Developer passionate about building impactful projects. My work spans from ethical hacking tools to AI-powered apps and large-scale marketplaces.
 
 ---
-
-## 🚀 Projects I've Built
+## 🚀 Projects I've Built  
 
 - **TroverStar Marketplace**  
-  A free online store platform empowering sellers — now with 2000+ daily users.  
-  [trover.42web.io](https://trover.42web.io)
+  A free online store platform empowering sellers — now with **2000+ daily users**.  
+  🌍 [trover.42web.io](https://trover.42web.io)
 
-- **StackVerify API**  
-  OTP, Email Verification, Campaigns, and WhatsApp automation tools to improve marketing accuracy and trust.  
-  [stackverify.vercel.app](https://stackverify.vercel.app)
+- **StackVerify**  
+  A **digital campaign platform** for sending bulk Emails, SMS, WhatsApp messages, and newsletters.  
+  Includes **abandoned cart product collection** to help businesses recover lost sales.  
+  🌍 [stack.my-board.org](https://stack.my-board.org)
 
 - **Ghost**  
-  Advanced terminal hacking tool for real-world cyber security testing and red team operations.
+  A **terminal-based hacking tool** that lets users perform **ethical hacking tasks with AI assistance** — blending automation with a hacker vibe.  
 
-- **StackMorgan AI**  
-  Intelligent assistant and productivity tools tailored for developers and entrepreneurs.
+- **StackFramework**  
+  A **lightweight PHP framework** inspired by Laravel.  
+  ⚡ Fast, AI-powered, with a **built-in neural network system** and **SQLite3 database support** for easy deployment.  
+  🌍 [stackframework.ct.ws](https://stackframework.ct.ws/)
 
-- **StackTube Video Aggregator**  
-  Aggregates and curates the best tech & educational videos on the web.  
-  [stacktube.vercel.app](https://stacktube.vercel.app)
-
-- **Frost Tools**  
-  Powerful ethical hacking toolkit & utilities designed for security professionals.  
-  [github.com/Frost-bit-star](https://github.com/Frost-bit-star)
-
-- **Termux Chat**  
-  Chat system built to run in terminal environments for real hackers.
-
-- **Termux AI**  
-  AI-powered assistant built for terminal users.
-
-- **Music Streaming on Termux**  
-  Streaming and managing music via terminal for a pure hacker vibe.
-
+- **Neural Network Brain**  
+  An **AI-powered neural simulation** that mimics human brain functionality.  
+  Used to build bots, trigger intelligent behaviors, and explore advanced AI concepts.
 ---
 
 ## 🛠️ Skills & Technologies
