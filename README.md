@@ -87,6 +87,8 @@ I am **Morgan Miller** — a Cyber Security Expert, Entrepreneur, and Fullstack 
 I build tools that hackers love and entrepreneurs trust — and I’m just getting started. :sunglasses:
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Frost-bit-star&theme=maroongold&no-frame=false&no-bg=false&margin-w=4)
 
 ## Connect with me
 
@@ -109,5 +111,5 @@ I build tools that hackers love and entrepreneurs trust — and I’m just getti
 </a>
 
 ---
-
+#
 *Made with 💻 and a touch of 3D & glassmorphism style* ✨
