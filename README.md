@@ -31,10 +31,10 @@ I am **Morgan Miller** — a Cyber Security Expert, Entrepreneur, and Fullstack 
 - **StackVerify**  
   A **digital campaign platform** for sending bulk Emails, SMS, WhatsApp messages, and newsletters.  
   Includes **abandoned cart product collection** to help businesses recover lost sales.  
-  🌍 [stack.my-board.org](https://stackverify.site)
+  🌍 [www.stackverify.site](https://stackverify.site)
 
-- **Ghost**  
-  A **terminal-based hacking tool** that lets users perform **ethical hacking tasks with AI assistance** — blending automation with a hacker vibe.  
+- **stackedge**  
+  A **sms gateway app** that lets users send sms using their phones as gateway **sms relay app using fcm** — blending automation with a real world problem.  
 
 - **StackFramework**  
   A **lightweight PHP framework** inspired by Laravel.  
