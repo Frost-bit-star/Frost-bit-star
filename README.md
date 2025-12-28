@@ -14,7 +14,7 @@
 [![StackTube](https://img.shields.io/badge/StackTube-222222?style=flat-square&logo=youtube&logoColor=red&link=https://stacktube.vercel.app)](https://stacktube.vercel.app)
 [![Trover](https://img.shields.io/badge/Trover-222222?style=flat-square&logo=shopify&logoColor=green&link=https://trover.42web.io)](https://trover.42web.io)
 [![GitHub](https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=white&link=https://github.com/Frost-bit-star)](https://github.com/Frost-bit-star)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Frost-bit-star&color=blue)
 ---
 
 ## About Me
