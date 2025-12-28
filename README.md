@@ -41,6 +41,16 @@ I am **Morgan Miller** — a Cyber Security Expert, Entrepreneur, and Fullstack 
   ⚡ Fast, AI-powered, with a **built-in neural network system** and **SQLite3 database support** for easy deployment.  
   🌍 [stackframework.ct.ws](https://stackframework.ct.ws/)
 
+- **jasiri school management**  
+  A **lightweight school results management** inspired by smartsoma.  
+  the platform helps teachers in tanzania to manage students records and results within few clicks.  
+  🌍 [jasiri school management systme](https://akinamamaj.kesug.com/)
+
+- **urban glam house kenya**  
+  A **saloon management platform** for urban galm users and admin the platform allows users to book for services while the admin can 
+  easily manege the records **the platform has paystack and instasend** as the payments getways.
+  🌍 [urban glam house](https://urbanglamhousekenya.com)
+
 - **Neural Network Brain**  
   An **AI-powered neural simulation** that mimics human brain functionality.  
   Used to build bots, trigger intelligent behaviors, and explore advanced AI concepts.
