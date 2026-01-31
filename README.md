@@ -17,97 +17,49 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Frost-bit-star&color=blue)
 ---
 
-## About Me
+# About me
 
-I am **Morgan Miller** — a Cyber Security Expert, Entrepreneur, and Fullstack Developer passionate about building impactful projects. My work spans from ethical hacking tools to AI-powered apps and large-scale marketplaces.
+**Backend • Networking • Security**
 
----
-## 🚀 Projects I've Built  
-
-- **TroverStar Marketplace**  
-  A free online store platform empowering sellers — now with **2000+ daily users**.  
-  🌍 [trover.42web.io](https://trover.42web.io)
-
-- **StackVerify**  
-  A **digital campaign platform** for sending bulk Emails, SMS, WhatsApp messages, and newsletters.  
-  Includes **abandoned cart product collection** to help businesses recover lost sales.  
-  🌍 [www.stackverify.site](https://stackverify.site)
-
-- **stackedge**  
-  A **sms gateway app** that lets users send sms using their phones as gateway **sms relay app using fcm** — blending automation with a real world problem.  
-
-- **StackFramework**  
-  A **lightweight PHP framework** inspired by Laravel.  
-  ⚡ Fast, AI-powered, with a **built-in neural network system** and **SQLite3 database support** for easy deployment.  
-  🌍 [stackframework.ct.ws](https://stackframework.ct.ws/)
-
-- **jasiri school management**  
-  A **lightweight school results management** inspired by smartsoma.  
-  the platform helps teachers in tanzania to manage students records and results within few clicks.  
-  🌍 [jasiri school management systme](https://akinamamaj.kesug.com/)
-
-- **urban glam house kenya**  
-  A **saloon management platform** for urban galm users and admin the platform allows users to book for services while the admin can 
-  easily manege the records **the platform has paystack and instasend** as the payments getways.
-  🌍 [urban glam house](https://urbanglamhousekenya.com)
-
-- **Neural Network Brain**  
-  An **AI-powered neural simulation** that mimics human brain functionality.  
-  Used to build bots, trigger intelligent behaviors, and explore advanced AI concepts.
----
-
-## 🛠️ Skills & Technologies
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
-![PHP](https://img.shields.io/badge/-PHP-370617?style=flat-square&logo=php)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-E6194B?style=flat-square&logo=java)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-007ACC?style=flat-square&logo=firebase)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-430098?style=flat-square&logo=tensorflow)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
-![GitHub Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-1572B6?style=flat-square&logo=amazon-aws)
+I build backend systems, CLI tools, and networking solutions.  
+Most of my work runs reliably in constrained environments—CGNAT, locked ISP routers, and minimal infrastructure.  
+I focus on practical, maintainable systems and automation, with full-stack work only when necessary.
 
 ---
 
-## 🌱 What I'm Learning
+## Projects
 
-- Advanced Cybersecurity techniques and tools  
-- Deep learning & AI integration with real-world apps  
-- Cutting-edge Fullstack development frameworks  
+| Project | Description | Links |
+|---------|-------------|-------|
+| **StackEdge** | CLI process manager for Termux that runs multiple services and exposes them via Tor hidden services, avoiding direct exposure or router configuration. | [![Site](https://img.shields.io/badge/Site-stackedge.vercel.app-blue)](https://stackedge.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-Frost--bit--star/StackEdge-black?logo=github)](https://github.com/Frost-bit-star/StackEdge) |
+| **Tpkg** | GitHub-powered package manager for Termux. Install CLI tools with one command, no manual setup. | [![GitHub](https://img.shields.io/badge/GitHub-Frost--bit--star/Tpkg-black?logo=github)](https://github.com/Frost-bit-star/Tpkg) |
+| **StackVerify** | Backend messaging system for Email, SMS, WhatsApp with automation and campaign features. | [![Site](https://img.shields.io/badge/Site-stackverify.site-blue)](https://www.stackverify.site) |
+| **TroverStar** | Marketplace backend supporting sellers, products, and transactional workflows. | [![Site](https://img.shields.io/badge/Site-trover.42web.io-blue)](https://trover.42web.io) |
+| **KyPHP** | Minimal, chainable PHP HTTP client with cURL, JSON handling, hooks, retries, and batch requests. | [![GitHub](https://img.shields.io/badge/GitHub-Frost--bit--star/KyPHP-black?logo=github)](https://github.com/Frost-bit-star/KyPHP) |
+| **JasiriBlink** | School records and results management platform for local educational workflows. | [![Site](https://img.shields.io/badge/Site-akinamamaj.kesug.com-blue)](https://akinamamaj.kesug.com) |
+| **Urban Glam House** | Beauty and salon management platform for bookings, client records, and payments. | [![Site](https://img.shields.io/badge/Site-urbanglamhousekenya.com-pink)](https://urbanglamhousekenya.com) |
+
+---
+
+## Focus Areas
+
+- Backend services and APIs  
+- Networking under constraints (CGNAT, NAT, ISP limitations)  
+- CLI tools and developer utilities  
+- Messaging systems and automation  
+- Practical security
 
 ---
 
-## 🎧 Hobbies & Interests
+## Tools & Stack
 
-- Open-source Contribution & Community 🚀  
-- Music production & streaming 🎵
-
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![CockroachDB](https://img.shields.io/badge/CockroachDB-0052CC?logo=cockroachlabs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-000000?logo=termux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white) ![CCTV](https://img.shields.io/badge/CCTV-0F4C81?logo=cctv&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-4E2A8E?logo=torproject&logoColor=white) ![MikroTik](https://img.shields.io/badge/MikroTik-ED1C24?logo=mikrotik&logoColor=white)
 ---
 
-## Fun Fact
+## Links
 
-I build tools that hackers love and entrepreneurs trust — and I’m just getting started. :sunglasses:
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Frost-bit-star&theme=maroongold&no-frame=false&no-bg=false&margin-w=4)
-
-## Connect with me
-
-- Website & Portfolio: [stackmorgan.vercel.app](https://stackmorgan.vercel.app)  
-- GitHub: [github.com/Frost-bit-star](https://github.com/Frost-bit-star)  
-- TikTok: [trover_star](https://www.tiktok.com/@trover_star?_t=ZM-8wjWlOE09Qe&_r=1)  
-- YouTube: [mr_termux-r2l](https://youtube.com/@mr_termux-r2l?si=-Vo_JkDOcpxg289G)  
-- Trover Marketplace: [trover.42web.io](https://trover.42web.io)  
-- Video Aggregator: [stacktube.vercel.app](https://stacktube.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-stackmorgan.vercel.app-lightgrey)](https://stackmorgan.vercel.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-Frost--bit--star-black?logo=github)](https://github.com/Frost-bit-star)
 
 ---
 
