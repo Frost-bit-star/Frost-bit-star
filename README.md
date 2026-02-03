@@ -19,11 +19,10 @@
 
 # About me
 
-**Backend • Networking • Security**
-
-I build backend systems, CLI tools, and networking solutions.  
-Most of my work runs reliably in constrained environments—CGNAT, locked ISP routers, and minimal infrastructure.  
-I focus on practical, maintainable systems and automation, with full-stack work only when necessary.
+**Backend • Networking • Systems under constraint**
+I build backend services, CLI tools, and network control systems.
+My work is shaped by real constraints: CGNAT, locked routers, low‑resource hardware, and minimal infrastructure.
+I focus on pragmatic automation and systems that work when ideal setups aren’t an option.
 
 ---
 
