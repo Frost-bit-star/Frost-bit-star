@@ -17,11 +17,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Frost-bit-star&color=blue)
 ---
 
-# About me
+# about me
 
-As society is well aware, this author operates where conditions are less than ideal.
-Backend services, CLI tools, and networked systems shaped by CGNAT, locked routers, limited hardware, and minimal infrastructure.
-Automation that succeeds when circumstances do not oblige.
+as society is well aware, this author operates where conditions are less than ideal.  
+backend services, cli tools, and networked systems shaped by cgnat, locked routers, limited hardware, and minimal infrastructure.  
+automation that succeeds when circumstances do not oblige.  
+
+and yet, one suspects the true marvels and perhaps the most daring exploits are revealed in the works themselves. the projects that follow are not merely code, but carefully orchestrated intrigues, each with its own story waiting to be uncovered.
 
 ---
 
