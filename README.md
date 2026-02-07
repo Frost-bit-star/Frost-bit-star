@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:222222&height=150&section=header&text=Morgan%20Miller&fontSize=50&fontColor=00FF00&animation=fadeIn" alt="header" />
 </p>
 
-### Hi there, I'm Morgan Miller! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Dear Gentle Readers! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![TikTok](https://img.shields.io/badge/TikTok-222222?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@trover_star?_t=ZM-8wjWlOE09Qe&_r=1)](https://www.tiktok.com/@trover_star?_t=ZM-8wjWlOE09Qe&_r=1)
 [![YouTube](https://img.shields.io/badge/YouTube-222222?style=flat-square&logo=youtube&logoColor=red&link=https://youtube.com/@mr_termux-r2l?si=-Vo_JkDOcpxg289G)](https://youtube.com/@mr_termux-r2l?si=-Vo_JkDOcpxg289G)
@@ -19,10 +19,9 @@
 
 # About me
 
-**Backend • Networking • Systems under constraint**
-I build backend services, CLI tools, and network control systems.
-My work is shaped by real constraints: CGNAT, locked routers, low‑resource hardware, and minimal infrastructure.
-I focus on pragmatic automation and systems that work when ideal setups aren’t an option.
+As society is well aware, this author operates where conditions are less than ideal.
+Backend services, CLI tools, and networked systems shaped by CGNAT, locked routers, limited hardware, and minimal infrastructure.
+Automation that succeeds when circumstances do not oblige.
 
 ---
 
@@ -42,12 +41,12 @@ I focus on pragmatic automation and systems that work when ideal setups aren’t
 
 ## Focus Areas
 
-- Backend services and APIs  
-- Networking under constraints (CGNAT, NAT, ISP limitations)  
-- CLI tools and developer utilities  
-- Messaging systems and automation  
-- Practical security
-
+Where systems are tested, not indulged.
+Backend services and APIs, where structure precedes spectacle
+Networks shaped by constraint—CGNAT, NAT, and uncooperative ISPs
+CLI tools and developer utilities, quiet in form yet firm in purpose
+Messaging systems and automation, measured and deliberate
+Security, practical by necessity, not performance
 ---
 
 ## Tools & Stack
@@ -73,4 +72,6 @@ I focus on pragmatic automation and systems that work when ideal setups aren’t
 
 ---
 #
-*Made with 💻 and a touch of 3D & glassmorphism style* ✨
+*Crafted in shadows, polished with 3D & glassmorphism* ✨.
+- One observes, one notes,
+- Jackal 🖋️👀
