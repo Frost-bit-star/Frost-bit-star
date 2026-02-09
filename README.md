@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&width=435&lines=Hi+there%2C+I'm+Morgan+Miller+%F0%9F%91%8B;Cyber+Security+Expert+%26+Fullstack+Developer;Ethical+Hacker+%7C+AI+Builder+%7C+Entrepreneur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1500&color=00FF00&center=true&width=435&lines=Hey%2C+I'm+Morgan.;Still+learning.+Still+building.;Security%2C+code%2C+and+curiosity." alt="Typing SVG" />
 </p>
 
 <p align="center">
