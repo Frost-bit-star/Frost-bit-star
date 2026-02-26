@@ -1,3 +1,3 @@
- **language:**
-- html 10%
-- css 3%
+ **learning:**
+- html - 10%
+- css - 3%
