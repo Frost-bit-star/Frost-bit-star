@@ -1,1 +1,3 @@
-### i'm learning html and css 
+ **language:**
+- html 10%
+- css 3%
