@@ -1,3 +1,1 @@
- **learning:**
-- html - 10%
-- css - 3%
+## i am currently learning how to build websites using html and css
