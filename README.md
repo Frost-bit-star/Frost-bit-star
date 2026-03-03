@@ -1,1 +1,1 @@
-## i am currently learning how to build websites using html and css
+## Network shouldn't have to be scary
