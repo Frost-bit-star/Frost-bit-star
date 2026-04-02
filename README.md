@@ -1,3 +1,3 @@
-# beginner Software developer 
-- Currently building: https://stackverify.site  
-- Also involved in farming.
+## 若きソフトウェア侍
+- ただいま、https://stackverify.site を鍛え上げている
+- また、大地を耕し、農の道にも励んでいる
