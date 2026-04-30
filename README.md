@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://render.gitanimals.org/farms/Frost-bit-star" width="550" />
+<img src="https://camo.githubusercontent.com/2cb7e0c104f0b32209df2b6e7d2abeed956190966ed7f1dfabf3ea524a205af6/68747470733a2f2f7374617469632e7a65726f6368616e2e6e65742f4c2e4c61776c6965742e66756c6c2e39373037352e6a7067" width="550" />
 
 <br>
 
