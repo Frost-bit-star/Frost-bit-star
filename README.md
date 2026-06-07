@@ -13,3 +13,5 @@ building <a href="https://github.com/ui-errors">ui-errors</a>
 <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
 
 </div>
+
+<p align="center"> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=morganmilstone983@gmail.com"> <img src="https://img.shields.io/badge/Book%20Appointment-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Book Appointment"> </a> </p>
