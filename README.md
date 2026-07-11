@@ -1,17 +1,1 @@
-<div align="center">
-
-building <a href="https://github.com/ui-errors">ui-errors</a>
-
-<br><br>
-
-<sub>“Ui” here leans more toward the ancient Prakrit meaning than modern tech.</sub>
-
-<img src="https://camo.githubusercontent.com/2cb7e0c104f0b32209df2b6e7d2abeed956190966ed7f1dfabf3ea524a205af6/68747470733a2f2f7374617469632e7a65726f6368616e2e6e65742f4c2e4c61776c6965742e66756c6c2e39373037352e6a7067" width="280" />
-
-<br>
-
-<img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
-
-</div>
-
-<p align="center"> <a href="https://calendly.com/morganmilstone983"> <img src="https://img.shields.io/badge/Book%20Appointment-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Book Appointment"> </a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&width=900&color=00FF00&lines=%3E+STARFLEET+COMMAND+%2F%2F+USS+ENTERPRISE;Captain%3A+Aye%2C+Captain.;Spock%3A+The+vessel+is+prepared.;Spock%3A+All+systems+are+functioning;Spock%3A+within+optimal+parameters.;Kirk%3A+Then+we+begin+the+mission.;Spock%3A+A+logical+decision%2C+Captain.;Kirk%3A+Sometimes+logic+finds+the+path.;Kirk%3A+But+someone+has+to+take+the+first+step.)](https://github.com/DenverCoder1/readme-typing-svg)
