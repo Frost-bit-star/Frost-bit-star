@@ -1,5 +1,5 @@
 <pre>
-<span style="color:#00FF00">&gt; STARFLEET COMMAND // USS ENTERPRISE</span>
+<span style="color:#00FF00">&gt; all onboard</span>
 
 <span style="color:#FF0000">Captain:</span> <span style="color:#00FF00">Aye, Captain.</span>
 
