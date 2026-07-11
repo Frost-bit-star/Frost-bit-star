@@ -1,1 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&width=900&color=00FF00&lines=%3E+STARFLEET+COMMAND+%2F%2F+USS+ENTERPRISE;Captain%3A+Aye%2C+Captain.;Spock%3A+The+vessel+is+prepared.;Spock%3A+All+systems+are+functioning;Spock%3A+within+optimal+parameters.;Kirk%3A+Then+we+begin+the+mission.;Spock%3A+A+logical+decision%2C+Captain.;Kirk%3A+Sometimes+logic+finds+the+path.;Kirk%3A+But+someone+has+to+take+the+first+step.)](https://github.com/DenverCoder1/readme-typing-svg)
+<pre>
+<span style="color:#00FF00">&gt; STARFLEET COMMAND // USS ENTERPRISE</span>
+
+<span style="color:#FF0000">Captain:</span> <span style="color:#00FF00">Aye, Captain.</span>
+
+<span style="color:#FF0000">Spock:</span> <span style="color:#00FF00">The vessel is prepared.
+All systems are functioning
+within optimal parameters.</span>
+
+<span style="color:#FF0000">Kirk:</span> <span style="color:#00FF00">Then we begin the mission.</span>
+
+<span style="color:#FF0000">Spock:</span> <span style="color:#00FF00">A logical decision, Captain.</span>
+
+<span style="color:#FF0000">Kirk:</span> <span style="color:#00FF00">Sometimes logic finds the path.
+But someone has to take the first step.</span>
+</pre>
