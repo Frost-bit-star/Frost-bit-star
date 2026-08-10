@@ -1,2 +1,2 @@
-<h1 align="center">Network shouldn't have to be scary</h1>
+<h1 align="center">I have no idea what I'm doing. Please inspect the source code and decide.</h1>
 
